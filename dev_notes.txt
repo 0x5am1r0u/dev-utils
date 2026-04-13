@@ -1,8 +1,6 @@
-just testing some scripts
+just testing stuff
 
-cleanup pending
-remove old backups later
-
-old backup key still unchanged
+cleanup later
+old systems still using same key...
 
 fsha
