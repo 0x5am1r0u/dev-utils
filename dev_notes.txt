@@ -1,6 +1,3 @@
-just testing stuff
+utilities for development
 
-cleanup later
-old systems still using same key...
-
-fsha
+nothing important here
